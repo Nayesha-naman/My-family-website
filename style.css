@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    width: 20%;
+    margin-top:30;
+    
+}
+.footer{
+    width: 100%;
+    font-size: 20px;
+    color:black;
+    text-align: center;
+    background-color: grey;
+    bottom: 0;
+    position: fixed;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top:80;
+
+}
